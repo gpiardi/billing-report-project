@@ -95,3 +95,6 @@ PYTHONPATH=src ./.venv/bin/python -m billing_app.report
 ```bash
 pytest
 ```
+## Project overview
+
+This project generates a billing report and includes automated tests to verify its functionality. 
