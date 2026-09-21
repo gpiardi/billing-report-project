@@ -98,3 +98,9 @@ pytest
 ### Virtual environment troubleshooting
 
 If the virtual environment is not active, activate it before running the project.
+### Verify the Python interpreter
+
+To check which Python interpreter is active, run:
+
+```bash
+which python
