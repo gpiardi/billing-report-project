@@ -95,3 +95,6 @@ PYTHONPATH=src ./.venv/bin/python -m billing_app.report
 ```bash
 pytest
 ```
+### Virtual environment troubleshooting
+
+If the virtual environment is not active, activate it before running the project.
