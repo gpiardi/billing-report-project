@@ -104,3 +104,6 @@ To check which Python interpreter is active, run:
 
 ```bash
 which python
+### Expected output
+
+The report displays the number of rows, the total billed amount, and the total paid amount.
